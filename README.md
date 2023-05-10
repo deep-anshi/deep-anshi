@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deep-anshi (deepanshi meaning - ray/particle of light; deep meaning - deep(dark synonym); anshi meaning - God's gift  
+- 👋 Hi, I’m @deep-anshi (deepanshi meaning - ray/particle of light
 - 👀 I’m interested in VOICES, BRAIN IMAGES, CHESS, PEOPLE, GENES, MEDICINE
 - 🌱 I’m currently learning Ukulele
 - 💞️ I’m looking to collaborate on Data Science, ML projects
